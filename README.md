@@ -1,0 +1,1 @@
+# BIN-BASH  Shell scripting  #!/bin/bash count=10 if [ $ Count -eq 10 ] then echo " value is 10" fi                                                                                                                    
